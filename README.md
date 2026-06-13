@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# MapReduce Review Analysis Report
+# MapReduce Review Analysis
 
 ## Summary
 
